@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171443841563",
+    "project_id": "g3-food-tracker",
+    "storage_bucket": "g3-food-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171443841563:android:78332efd3274f3a1fd26be",
+        "android_client_info": {
+          "package_name": "com.example.grupo_3_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171443841563-t3dkpgg55e7b2pmej7ad56mvphkuva7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Bh_hzUmxtmf6TcsYRbAcHlTz5AP1JDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171443841563-t3dkpgg55e7b2pmej7ad56mvphkuva7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
